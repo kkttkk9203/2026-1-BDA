@@ -5,6 +5,10 @@
 - [A반(QA) 수요일 오전](https://docs.google.com/spreadsheets/d/1D6ayWWOMeVnYbkdMYzPTb6pRjdNcvLFk4VPmn_ylpus/edit?usp=sharing)
 - [B반(QB) 수요일 오후](https://docs.google.com/spreadsheets/d/1eSEnDMEoiSUiUgyeKz_xyt1tmn8EPJ3cRPKXZdKE7i4/edit?usp=sharing)
 
+## 시험 일정
+- 중간고사 2026/4/22수 오후 3시
+- 기말고사 2026/6/17수 오후 3시
+
 ## 타이타닉 열(변수) 설명
 - survived : 0 = 사망, 1 = 생존
 - pclass : 1 = 1등석, 2 = 2등석, 3 = 3등석
